@@ -7,6 +7,7 @@ const withStackbitComponents = require('@stackbit/components/next-stackbit-compo
 
 console.log('nextjs reload')
 
+
 sourcebit.fetch(sourcebitConfig);
 
 module.exports = withStackbitComponents({
